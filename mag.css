@@ -1,0 +1,131 @@
+body {
+ background-color: darkgreen;
+ 
+   
+}
+
+header {
+    padding: 30px;
+    background-color: rgb(29, 19, 182);
+    border-radius: 30px;
+    margin: 20px;
+    color:color;
+    border: 5px solid;
+    
+}
+.raz {
+    display: flex;
+    
+
+
+
+
+}
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h2 {
+
+}
+
+p {
+    
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.voin {
+   color: rgba(175, 26, 26, 0.877); 
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+head img{
+
+width: 100px;
+height: 100px;
+
+
+
+}
+.start{
+background-color: darkgreen;
+ 
+}
+.fotka{
+padding-left: 50%;
+
+}
+.gol{
+ padding: 30px;
+    background-color: green;
+    border-radius: 30px;
+    margin: 20px;
+    color:color;
+    border: 5px solid;
+
+}
+main img{
+width: 150px;
+height: 150px;
+}
+
+.lol{
+padding: 30px;
+    background-color: green;
+    border-radius: 30px;
+    margin: 20px;
+    color:color;
+    border: 5px solid;
+
+
+}
+.class{
+padding: 30px;
+    background-color: green;
+    border-radius: 30px;
+    margin: 20px;
+    color:color;
+    border: 5px solid;
+
+}
+.mag{
+text-decoration: none;
+
+
+}
+.gg{
+color: rgb(8, 71, 8);
+
+}
+.su{
+color: rgba(0, 255, 255, 0.781);
+
+}
+a{
+text-decoration: none;
+
+}
