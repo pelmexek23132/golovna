@@ -125,7 +125,9 @@ color: rgb(8, 71, 8);
 color: rgba(0, 255, 255, 0.781);
 
 }
-a{
-text-decoration: none;
+a {
+float: right;
+border-radius: 5px ;
+font-size: 30px;  
+ }
 
-}
