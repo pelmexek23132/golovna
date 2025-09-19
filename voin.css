@@ -44,9 +44,11 @@ p {
     
 }
 
-.info {
-   
-}
+ a {
+float: right;
+border-radius: 5px ;
+font-size: 30px;  
+ }
 
 article {
    
