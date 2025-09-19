@@ -21,9 +21,12 @@ header {
 
 
 }
-.button {
-    
-}
+a {
+float: right;
+border-radius: 5px ;
+font-size: 30px;  
+ }
+
 
 img {
   width: 150px;  
